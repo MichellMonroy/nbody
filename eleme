@@ -1,3 +1,0 @@
-#include "element.h"
-
-Element new_Element(float mass, float *position, float *velocity){}
